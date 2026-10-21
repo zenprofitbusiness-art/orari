@@ -1,0 +1,10 @@
+{
+  "name": "Remix Al-Mawaqit: Orari di Preghiera \u0026 Tahajjud",
+  "description": "Orari di preghiera islamici con calcolo dell\u0027Ultimo Terzo della Notte e Tahajjud secondo la Lega Islamica Mondiale, notifiche personalizzate e geolocalizzazione accurata.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
